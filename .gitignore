@@ -1,41 +1,12 @@
-# Compiled Lua sources
-luac.out
-
-# luarocks build files
-*.src.rock
+# compressed files
+*.rar
 *.zip
 *.tar.gz
+*.7z
 
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
+# windows thumbnail cache
+Thumbs.db
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
+# FiveM Files
+server.cfg
+resources/[standalone]/ghmattimysql/config.json

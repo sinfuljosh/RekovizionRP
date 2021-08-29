@@ -1,0 +1,252 @@
+[submodule "resources/[standalone]/bob74_ipl"]
+	path = resources/[standalone]/bob74_ipl
+	url = https://github.com/Bob74/bob74_ipl.git
+[submodule "resources/[standalone]/safecracker"]
+	path = resources/[standalone]/safecracker
+	url = https://github.com/qbcore-framework/safecracker.git
+[submodule "resources/[standalone]/progressbar"]
+	path = resources/[standalone]/progressbar
+	url = https://github.com/qbcore-framework/progressbar.git
+[submodule "resources/[standalone]/mhacking"]
+	path = resources/[standalone]/mhacking
+	url = https://github.com/qbcore-framework/mhacking.git
+[submodule "resources/[standalone]/connectqueue"]
+	path = resources/[standalone]/connectqueue
+	url = https://github.com/qbcore-framework/connectqueue.git
+[submodule "resources/[standalone]/dpemotes"]
+	path = resources/[standalone]/dpemotes
+	url = https://github.com/qbcore-framework/dpemotes.git
+[submodule "resources/[standalone]/LegacyFuel"]
+	path = resources/[standalone]/LegacyFuel
+	url = https://github.com/qbcore-framework/LegacyFuel.git
+[submodule "resources/[voice]/pma-voice"]
+	path = resources/[voice]/pma-voice
+	url = https://github.com/AvarianKnight/pma-voice.git
+[submodule "resources/[voice]/qb-radio"]
+	path = resources/[voice]/qb-radio
+	url = https://github.com/qbcore-framework/qb-radio.git
+[submodule "resources/[qb]/qb-core"]
+	path = resources/[qb]/qb-core
+	url = https://github.com/qbcore-framework/qb-core.git
+[submodule "resources/[qb]/qb-gangmenu"]
+	path = resources/[qb]/qb-gangmenu
+	url = https://github.com/qbcore-framework/qb-gangmenu.git
+[submodule "resources/[qb]/qb-scoreboard"]
+	path = resources/[qb]/qb-scoreboard
+	url = https://github.com/qbcore-framework/qb-scoreboard.git
+[submodule "resources/[qb]/qb-adminmenu"]
+	path = resources/[qb]/qb-adminmenu
+	url = https://github.com/qbcore-framework/qb-adminmenu.git
+[submodule "resources/[qb]/qb-multicharacter"]
+	path = resources/[qb]/qb-multicharacter
+	url = https://github.com/qbcore-framework/qb-multicharacter.git
+[submodule "resources/[qb]/qb-customs"]
+	path = resources/[qb]/qb-customs
+	url = https://github.com/qbcore-framework/qb-customs.git
+[submodule "resources/[qb]/qb-vehiclesales"]
+	path = resources/[qb]/qb-vehiclesales
+	url = https://github.com/qbcore-framework/qb-vehiclesales.git
+[submodule "resources/[qb]/qb-vehicleshop"]
+	path = resources/[qb]/qb-vehicleshop
+	url = https://github.com/qbcore-framework/qb-vehicleshop.git
+[submodule "resources/[qb]/qb-houserobbery"]
+	path = resources/[qb]/qb-houserobbery
+	url = https://github.com/qbcore-framework/qb-houserobbery.git
+[submodule "resources/[qb]/qb-coke"]
+	path = resources/[qb]/qb-coke
+	url = https://github.com/qbcore-framework/qb-coke.git
+[submodule "resources/[qb]/qb-prison"]
+	path = resources/[qb]/qb-prison
+	url = https://github.com/qbcore-framework/qb-prison.git
+[submodule "resources/[qb]/qb-blackjack"]
+	path = resources/[qb]/qb-blackjack
+	url = https://github.com/qbcore-framework/qb-blackjack.git
+[submodule "resources/[qb]/qb-atms"]
+	path = resources/[qb]/qb-atms
+	url = https://github.com/qbcore-framework/qb-atms.git
+[submodule "resources/[qb]/qb-ifruitstore"]
+	path = resources/[qb]/qb-ifruitstore
+	url = https://github.com/qbcore-framework/qb-ifruitstore.git
+[submodule "resources/[qb]/qb-hud"]
+	path = resources/[qb]/qb-hud
+	url = https://github.com/qbcore-framework/qb-hud.git
+[submodule "resources/[qb]/qb-bossmenu"]
+	path = resources/[qb]/qb-bossmenu
+	url = https://github.com/qbcore-framework/qb-bossmenu.git
+[submodule "resources/[qb]/qb-weed"]
+	path = resources/[qb]/qb-weed
+	url = https://github.com/qbcore-framework/qb-weed.git
+[submodule "resources/[qb]/qb-lapraces"]
+	path = resources/[qb]/qb-lapraces
+	url = https://github.com/qbcore-framework/qb-lapraces.git
+[submodule "resources/[qb]/qb-inventory"]
+	path = resources/[qb]/qb-inventory
+	url = https://github.com/qbcore-framework/qb-inventory.git
+[submodule "resources/[qb]/qb-houses"]
+	path = resources/[qb]/qb-houses
+	url = https://github.com/qbcore-framework/qb-houses.git
+[submodule "resources/[qb]/qb-garages"]
+	path = resources/[qb]/qb-garages
+	url = https://github.com/qbcore-framework/qb-garages.git
+[submodule "resources/[qb]/qb-ambulancejob"]
+	path = resources/[qb]/qb-ambulancejob
+	url = https://github.com/qbcore-framework/qb-ambulancejob.git
+[submodule "resources/[qb]/qb-vehiclefailure"]
+	path = resources/[qb]/qb-vehiclefailure
+	url = https://github.com/qbcore-framework/qb-vehiclefailure.git
+[submodule "resources/[qb]/qb-radialmenu"]
+	path = resources/[qb]/qb-radialmenu
+	url = https://github.com/qbcore-framework/qb-radialmenu.git
+[submodule "resources/[qb]/qb-crypto"]
+	path = resources/[qb]/qb-crypto
+	url = https://github.com/qbcore-framework/qb-crypto.git
+[submodule "resources/[qb]/qb-weathersync"]
+	path = resources/[qb]/qb-weathersync
+	url = https://github.com/qbcore-framework/qb-weathersync.git
+[submodule "resources/[qb]/qb-policejob"]
+	path = resources/[qb]/qb-policejob
+	url = https://github.com/qbcore-framework/qb-policejob.git
+[submodule "resources/[qb]/qb-traphouse"]
+	path = resources/[qb]/qb-traphouse
+	url = https://github.com/qbcore-framework/qb-traphouse.git
+[submodule "resources/[qb]/qb-apartments"]
+	path = resources/[qb]/qb-apartments
+	url = https://github.com/qbcore-framework/qb-apartments.git
+[submodule "resources/[qb]/qb-vehiclekeys"]
+	path = resources/[qb]/qb-vehiclekeys
+	url = https://github.com/qbcore-framework/qb-vehiclekeys.git
+[submodule "resources/[qb]/qb-mechanicjob"]
+	path = resources/[qb]/qb-mechanicjob
+	url = https://github.com/qbcore-framework/qb-mechanicjob.git
+[submodule "resources/[qb]/qb-phone"]
+	path = resources/[qb]/qb-phone
+	url = https://github.com/qbcore-framework/qb-phone.git
+[submodule "resources/[qb]/qb-vineyard"]
+	path = resources/[qb]/qb-vineyard
+	url = https://github.com/qbcore-framework/qb-vineyard.git
+[submodule "resources/[qb]/qb-weapons"]
+	path = resources/[qb]/qb-weapons
+	url = https://github.com/qbcore-framework/qb-weapons.git
+[submodule "resources/[qb]/qb-scrapyard"]
+	path = resources/[qb]/qb-scrapyard
+	url = https://github.com/qbcore-framework/qb-scrapyard.git
+[submodule "resources/[qb]/qb-tunerchip"]
+	path = resources/[qb]/qb-tunerchip
+	url = https://github.com/qbcore-framework/qb-tunerchip.git
+[submodule "resources/[qb]/qb-towjob"]
+	path = resources/[qb]/qb-towjob
+	url = https://github.com/qbcore-framework/qb-towjob.git
+[submodule "resources/[qb]/qb-streetraces"]
+	path = resources/[qb]/qb-streetraces
+	url = https://github.com/qbcore-framework/qb-streetraces.git
+[submodule "resources/[qb]/qb-storerobbery"]
+	path = resources/[qb]/qb-storerobbery
+	url = https://github.com/qbcore-framework/qb-storerobbery.git
+[submodule "resources/[qb]/qb-spawn"]
+	path = resources/[qb]/qb-spawn
+	url = https://github.com/qbcore-framework/qb-spawn.git
+[submodule "resources/[qb]/qb-skillbar"]
+	path = resources/[qb]/qb-skillbar
+	url = https://github.com/qbcore-framework/qb-skillbar.git
+[submodule "resources/[qb]/qb-smallresources"]
+	path = resources/[qb]/qb-smallresources
+	url = https://github.com/qbcore-framework/qb-smallresources.git
+[submodule "resources/[qb]/qb-recyclejob"]
+	path = resources/[qb]/qb-recyclejob
+	url = https://github.com/qbcore-framework/qb-recyclejob.git
+[submodule "resources/[qb]/qb-logs"]
+	path = resources/[qb]/qb-logs
+	url = https://github.com/qbcore-framework/qb-logs.git
+[submodule "resources/[qb]/qb-diving"]
+	path = resources/[qb]/qb-diving
+	url = https://github.com/qbcore-framework/qb-diving.git
+[submodule "resources/[qb]/qb-cityhall"]
+	path = resources/[qb]/qb-cityhall
+	url = https://github.com/qbcore-framework/qb-cityhall.git
+[submodule "resources/[qb]/qb-casino"]
+	path = resources/[qb]/qb-casino
+	url = https://github.com/qbcore-framework/qb-casino.git
+[submodule "resources/[qb]/qb-anticheat"]
+	path = resources/[qb]/qb-anticheat
+	url = https://github.com/qbcore-framework/qb-anticheat.git
+[submodule "resources/[qb]/qb-afk"]
+	path = resources/[qb]/qb-afk
+	url = https://github.com/qbcore-framework/qb-afk.git
+[submodule "resources/[qb]/qb-oxyrun"]
+	path = resources/[qb]/qb-oxyrun
+	url = https://github.com/qbcore-framework/qb-oxyrun.git
+[submodule "resources/[qb]/qb-carwash"]
+	path = resources/[qb]/qb-carwash
+	url = https://github.com/qbcore-framework/qb-carwash.git
+[submodule "resources/[qb]/qb-vehiclepush"]
+	path = resources/[qb]/qb-vehiclepush
+	url = https://github.com/qbcore-framework/qb-vehiclepush.git
+[submodule "resources/[qb]/qb-truckrobbery"]
+	path = resources/[qb]/qb-truckrobbery
+	url = https://github.com/qbcore-framework/qb-truckrobbery.git
+[submodule "resources/[qb]/qb-pawnshop"]
+	path = resources/[qb]/qb-pawnshop
+	url = https://github.com/qbcore-framework/qb-pawnshop.git
+[submodule "resources/[qb]/qb-taxijob"]
+	path = resources/[qb]/qb-taxijob
+	url = https://github.com/qbcore-framework/qb-taxijob.git
+[submodule "resources/[qb]/qb-newsjob"]
+	path = resources/[qb]/qb-newsjob
+	url = https://github.com/qbcore-framework/qb-newsjob.git
+[submodule "resources/[qb]/qb-methlab"]
+	path = resources/[qb]/qb-methlab
+	url = https://github.com/qbcore-framework/qb-methlab.git
+[submodule "resources/[qb]/qb-jewelery"]
+	path = resources/[qb]/qb-jewelery
+	url = https://github.com/qbcore-framework/qb-jewelery.git
+[submodule "resources/[qb]/qb-bankrobbery"]
+	path = resources/[qb]/qb-bankrobbery
+	url = https://github.com/qbcore-framework/qb-bankrobbery.git
+[submodule "resources/[qb]/qb-truckerjob"]
+	path = resources/[qb]/qb-truckerjob
+	url = https://github.com/qbcore-framework/qb-truckerjob.git
+[submodule "resources/[qb]/qb-lawyerjob"]
+	path = resources/[qb]/qb-lawyerjob
+	url = https://github.com/qbcore-framework/qb-lawyerjob.git
+[submodule "resources/[qb]/qb-keyminigame"]
+	path = resources/[qb]/qb-keyminigame
+	url = https://github.com/qbcore-framework/qb-keyminigame.git
+[submodule "resources/[qb]/qb-fitbit"]
+	path = resources/[qb]/qb-fitbit
+	url = https://github.com/qbcore-framework/qb-fitbit.git
+[submodule "resources/[qb]/qb-commandbinding"]
+	path = resources/[qb]/qb-commandbinding
+	url = https://github.com/qbcore-framework/qb-commandbinding.git
+[submodule "resources/[qb]/qb-banking"]
+	path = resources/[qb]/qb-banking
+	url = https://github.com/qbcore-framework/qb-banking.git
+[submodule "resources/[qb]/qb-clothing"]
+	path = resources/[qb]/qb-clothing
+	url = https://github.com/qbcore-framework/qb-clothing.git
+[submodule "resources/[qb]/qb-hotdogjob"]
+	path = resources/[qb]/qb-hotdogjob
+	url = https://github.com/qbcore-framework/qb-hotdogjob.git
+[submodule "resources/[qb]/qb-doorlock"]
+	path = resources/[qb]/qb-doorlock
+	url = https://github.com/qbcore-framework/qb-doorlock.git
+[submodule "resources/[qb]/qb-crafting"]
+	path = resources/[qb]/qb-crafting
+	url = https://github.com/qbcore-framework/qb-crafting.git
+[submodule "resources/[qb]/qb-garbagejob"]
+	path = resources/[qb]/qb-garbagejob
+	url = https://github.com/qbcore-framework/qb-garbagejob.git
+[submodule "resources/[qb]/qb-drugs"]
+	path = resources/[qb]/qb-drugs
+	url = https://github.com/qbcore-framework/qb-drugs.git
+[submodule "resources/[qb]/qb-builderjob"]
+	path = resources/[qb]/qb-builderjob
+	url = https://github.com/qbcore-framework/qb-builderjob.git
+[submodule "resources/[qb]/qb-shops"]
+	path = resources/[qb]/qb-shops
+	url = https://github.com/qbcore-framework/qb-shops.git
+[submodule "resources/[qb]/qb-lockpick"]
+	path = resources/[qb]/qb-lockpick
+	url = https://github.com/qbcore-framework/qb-lockpick.git
+[submodule "resources/[qb]/qb-interior"]
+	path = resources/[qb]/qb-interior
+	url = https://github.com/qbcore-framework/qb-interior.git
